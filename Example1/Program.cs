@@ -33,7 +33,6 @@ namespace Example1
             for (; i < n1; i++)
             {
                 S = S + i;
-
             }
 
             Console.WriteLine(S);
